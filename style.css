@@ -1,7 +1,7 @@
 /* General styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f9;
+  background-color: #1C1C1C;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -12,7 +12,7 @@ body {
 /* Container styling */
 .container {
   text-align: center;
-  background: #fff;
+  background: #D4D4D2;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
@@ -22,7 +22,7 @@ body {
 
 /* Title */
 h1 {
-  color: #333;
+  color: Dark Liver;
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -39,7 +39,7 @@ input[type="file"] {
 /* Button styling */
 button {
   padding: 10px 20px;
-  background-color: #007BFF;
+  background-color: #FF9500;
   border: none;
   color: white;
   font-size: 16px;
@@ -63,7 +63,7 @@ button:hover {
 }
 
 a {
-  color: #007BFF;
+  color: #505050;
   text-decoration: none;
 }
 
