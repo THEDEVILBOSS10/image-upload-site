@@ -22,7 +22,7 @@ body {
 
 /* Title */
 h1 {
-  color: Dark Liver;
+  color: #4B4B4B; /* Dark Gray */
   font-size: 24px;
   margin-bottom: 20px;
 }
@@ -48,7 +48,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #D77D00; /* Darker Orange */
 }
 
 /* Output styling */
