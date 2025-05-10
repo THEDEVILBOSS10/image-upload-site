@@ -1,15 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Image Upload to imgbb</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upload Image to Get Public Link</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Upload Image to Get Public Link</h1>
-  <input type="file" id="fileInput" accept="image/*">
-  <button onclick="uploadToImgbb()">Upload</button>
+  <div class="container">
+    <h1>Upload Image</h1>
+    <input type="file" id="fileInput" accept="image/*">
+    <button onclick="uploadToImgbb()">Upload</button>
 
-  <div id="output"></div>
+    <div id="output"></div>
+  </div>
 
   <script src="script.js"></script>
 </body>
