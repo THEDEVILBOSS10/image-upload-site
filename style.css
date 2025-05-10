@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #121212;
+  color: white;
+}
+.container {
+  margin-top: 50px;
+}
+#previewBox {
+  margin-top: 20px;
+}
+#preview {
+  max-width: 90%;
+  height: auto;
+  border: 2px solid #fff;
+  margin-top: 10px;
+}
